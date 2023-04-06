@@ -1,5 +1,5 @@
 # STUDY 01
-*git, github 강의 내용정리 입니다.
+* git, github 강의 내용정리 입니다.
 
 ## Git
 * **Git** : 소스 이력 추적을 위한 버전 관리 시스템
@@ -11,6 +11,7 @@
 * **Staging Area**      : commit할 파일의 예비 저장소
 * **Local Repository**  : 각 컴퓨터의 git이 관리하는 로컬 저장소 - 눈에 보이지 않음, 언제든지 commit한 지점으로 돌아감
 * **Remote Repository** : Github 등 외부에 위치한 원격 저장소
+
 
 ## Git 저장소
 * **.gitignore** : 파일 추가
